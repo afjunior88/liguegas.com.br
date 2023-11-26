@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seu site | Exemplo</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#inicio">Início</a></li>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#servicos">Serviços</a></li>
+        <li><a href="#parcerias">Parcerias</a></li>
+        <li><a href="#agendamentos">Agendamentos</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+    <h1>Seu Site</h1>
+    <p>Descrição do seu site</p>
+    <div class="social-media">
+      <a href="https://www.facebook.com/seu-site" target="_blank"><img src="facebook.png" alt="Facebook"></a>
+      <a href="https://www.instagram.com/seu-site" target="_blank"><img src="instagram.png" alt="Instagram"></a>
+      <a href="https://www.twitter.com/seu-site" target="_blank"><img src="twitter.png" alt="Twitter"></a>
+    </div>
+  </header>
+  
+  <section id="inicio">
+    <h2>Início</h2>
+    <p>Conteúdo da seção Início</p>
+  </section>
+  
+  <section id="sobre">
+    <h2>Sobre</h2>
+    <p>Conteúdo da seção Sobre</p>
+  </section>
+  
+  <section id="servicos">
+    <h2>Serviços</h2>
+    <p>Conteúdo da seção Serviços</p>
+  </section>
+  
+  <section id="parcerias">
+    <h2>Parcerias</h2>
+    <p>Conteúdo da seção Parcerias</p>
+  </section>
+  
+  <section id="agendamentos">
+    <h2>Agendamentos</h2>
+    <p>Conteúdo da seção Agendamentos</p>
+  </section>
+  
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>Conteúdo da seção Contato</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2022 Seu Site. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
